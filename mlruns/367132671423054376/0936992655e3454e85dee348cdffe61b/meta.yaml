@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anushareddybhairy/Desktop/MLOps Student Score/MLOps-student/mlruns/367132671423054376/0936992655e3454e85dee348cdffe61b/artifacts
+end_time: 1773827590987
+entry_point_name: ''
+experiment_id: '367132671423054376'
+lifecycle_stage: active
+run_id: 0936992655e3454e85dee348cdffe61b
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773827587926
+status: 3
+tags: []
+user_id: anushareddybhairy

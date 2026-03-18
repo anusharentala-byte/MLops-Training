@@ -1,0 +1,10 @@
+artifact_location: file:///Users/anushareddybhairy/Desktop/MLOps Student Score/MLOps-student/mlruns/367132671423054376/models/m-a717265081db4c64841b1c58012e19ac/artifacts
+creation_timestamp: 1773827587946
+experiment_id: '367132671423054376'
+last_updated_timestamp: 1773827590985
+model_id: m-a717265081db4c64841b1c58012e19ac
+model_type: null
+name: model
+source_run_id: 0936992655e3454e85dee348cdffe61b
+status: 2
+status_message: null

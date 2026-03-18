@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anushareddybhairy/Desktop/MLOps Student Score/MLOps-student/mlruns/0/42077a1da4da449f95c0cc332e553583/artifacts
+end_time: 1773827508681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42077a1da4da449f95c0cc332e553583
+run_name: caring-whale-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773827505559
+status: 3
+tags: []
+user_id: anushareddybhairy

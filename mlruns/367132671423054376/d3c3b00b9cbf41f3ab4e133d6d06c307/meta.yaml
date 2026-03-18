@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anushareddybhairy/Desktop/MLOps Student Score/MLOps-student/mlruns/367132671423054376/d3c3b00b9cbf41f3ab4e133d6d06c307/artifacts
+end_time: 1773827594150
+entry_point_name: ''
+experiment_id: '367132671423054376'
+lifecycle_stage: active
+run_id: d3c3b00b9cbf41f3ab4e133d6d06c307
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773827590989
+status: 3
+tags: []
+user_id: anushareddybhairy
